@@ -1,4 +1,4 @@
-package com.mkyong.web.controller;
+package com.mattrick.web.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
